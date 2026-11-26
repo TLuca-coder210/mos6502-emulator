@@ -1,0 +1,6 @@
+emulator
+*.o
+*.out
+.DS_Store
+.vscode/
+.idea/
